@@ -1,0 +1,27 @@
+.headder{
+    width: 100%;
+    background: orange;
+    height: 150px;
+
+}
+.leftselecton{
+    width: 200px;
+    float: left;
+    height: 400px;
+    background: orchid;
+}
+.rightselection{
+    width: 1000px;
+    float: left;
+    height: 400px;
+    background: rgb(61, 17, 60);
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background: grey;
+}
+.content{
+    height: 400px;
+    
+}

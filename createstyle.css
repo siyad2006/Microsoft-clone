@@ -1,0 +1,48 @@
+.main{
+    width: 100%;
+   
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    height: 75px;
+    float: left;
+
+}
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 5px;
+}
+.list1{
+    text-decoration: none;
+    padding-top: 50px;
+   
+}
+.list2{
+    text-decoration: none;
+    padding-top: 50px;
+   
+}
+.list3{
+    text-decoration: none;
+    padding-top: 50px;
+   
+}
+.list4{
+    text-decoration: none;
+    padding-top: 50px;
+   
+}
+.list5{
+    text-decoration: none;
+    padding-top: 50px;
+   
+}

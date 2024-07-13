@@ -1,0 +1,81 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+import java.awt.Color;
+import java.awt.LayoutManager;
+import java.awt.event.ActionEvent;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class calculatapp implements actionlistener {
+   JFrame jf = new JFrame("calculator");
+   JLabel displaylabel;
+
+   public calculatapp() {
+      this.jf.setLayout((LayoutManager)null);
+      this.jf.setSize(600, 600);
+      this.displaylabel = new JLabel("hello");
+      this.displaylabel.setBounds(30, 50, 352, 40);
+      this.displaylabel.setBackground(Color.CYAN);
+      this.displaylabel.setOpaque(true);
+      this.displaylabel.setForeground(Color.RED);
+      this.jf.add(this.displaylabel);
+      JButton var1 = new JButton("7");
+      var1.setBounds(30, 130, 80, 80);
+      this.jf.add(var1);
+      JButton var2 = new JButton("8");
+      var2.setBounds(130, 130, 80, 80);
+      this.jf.add(var2);
+      JButton var3 = new JButton("9");
+      var3.setBounds(230, 130, 80, 80);
+      this.jf.add(var3);
+      JButton var4 = new JButton("4");
+      var4.setBounds(30, 230, 80, 80);
+      this.jf.add(var4);
+      JButton var5 = new JButton("5");
+      var5.setBounds(130, 230, 80, 80);
+      this.jf.add(var5);
+      JButton var6 = new JButton("6");
+      var6.setBounds(230, 230, 80, 80);
+      this.jf.add(var6);
+      JButton var7 = new JButton("3");
+      var7.setBounds(30, 330, 80, 80);
+      this.jf.add(var7);
+      JButton var8 = new JButton("2");
+      var8.setBounds(130, 330, 80, 80);
+      this.jf.add(var8);
+      JButton var9 = new JButton("1");
+      var9.setBounds(230, 330, 80, 80);
+      this.jf.add(var9);
+      JButton var10 = new JButton(".");
+      var10.setBounds(30, 430, 80, 80);
+      this.jf.add(var10);
+      JButton var11 = new JButton("0");
+      var11.setBounds(130, 430, 80, 80);
+      this.jf.add(var11);
+      JButton var12 = new JButton("=");
+      var12.setBounds(230, 430, 80, 80);
+      this.jf.add(var12);
+      JButton var13 = new JButton("/");
+      var13.setBounds(330, 130, 80, 80);
+      this.jf.add(var13);
+      JButton var14 = new JButton("x");
+      var14.setBounds(330, 230, 80, 80);
+      this.jf.add(var14);
+      JButton var15 = new JButton("-");
+      var15.setBounds(330, 330, 80, 80);
+      this.jf.add(var15);
+      JButton var16 = new JButton("+");
+      var16.setBounds(330, 430, 80, 80);
+      this.jf.add(var16);
+      this.jf.setVisible(true);
+   }
+
+   public static void main(String[] var0) {
+      new calculatapp();
+   }
+
+   public void actionperformed(ActionEvent var1) {
+      this.jf.getContentPane().setBackground(Color.BLUE);
+      this.displaylabel.setText("7");
+   }
+}

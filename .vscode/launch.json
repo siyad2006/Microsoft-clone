@@ -1,0 +1,542 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "methodwithparareturntutor2",
+      "request": "launch",
+      "mainClass": "methodwithparareturntutor2",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "methodtutorial",
+      "request": "launch",
+      "mainClass": "methodtutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "multidimentionalarraytutoial",
+      "request": "launch",
+      "mainClass": "multidimentionalarraytutoial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mathmethodtutorial",
+      "request": "launch",
+      "mainClass": "mathmethodtutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "logicaloperatortutorial",
+      "request": "launch",
+      "mainClass": "logicaloperatortutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "commentstutorial",
+      "request": "launch",
+      "mainClass": "commentstutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mainencapsulationtutorial",
+      "request": "launch",
+      "mainClass": "mainencapsulationtutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "methodwithparareturntutor",
+      "request": "launch",
+      "mainClass": "methodwithparareturntutor",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "exceptiontutorial",
+      "request": "launch",
+      "mainClass": "exceptiontutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "userinputtutorial",
+      "request": "launch",
+      "mainClass": "userinputtutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "abstractinterfacetutorial",
+      "request": "launch",
+      "mainClass": "abstractinterfacetutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "abstractclassestutorial",
+      "request": "launch",
+      "mainClass": "abstractclassestutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "methodwithparatutorial",
+      "request": "launch",
+      "mainClass": "methodwithparatutorial",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "innerclass2",
+      "request": "launch",
+      "mainClass": "innerclass2",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "innwrclss1",
+      "request": "launch",
+      "mainClass": "innwrclss1",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mainencapsulation2",
+      "request": "launch",
+      "mainClass": "mainencapsulation2",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mainencapsulatin",
+      "request": "launch",
+      "mainClass": "mainencapsulatin",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "car",
+      "request": "launch",
+      "mainClass": "car",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "multimethods",
+      "request": "launch",
+      "mainClass": "multimethods",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "methods",
+      "request": "launch",
+      "mainClass": "methods",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "multiattri2",
+      "request": "launch",
+      "mainClass": "multiattri2",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "multipleattributes",
+      "request": "launch",
+      "mainClass": "multipleattributes",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "attributes",
+      "request": "launch",
+      "mainClass": "attributes",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mainob",
+      "request": "launch",
+      "mainClass": "mainob",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "scd",
+      "request": "launch",
+      "mainClass": "scd",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "java",
+      "request": "launch",
+      "mainClass": "java",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "calculatapp",
+      "request": "launch",
+      "mainClass": "calculatapp",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "sop",
+      "request": "launch",
+      "mainClass": "sop",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "C",
+      "request": "launch",
+      "mainClass": "C",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "B",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mai",
+      "request": "launch",
+      "mainClass": "mai",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "hww",
+      "request": "launch",
+      "mainClass": "hww",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "costructor",
+      "request": "launch",
+      "mainClass": "costructor",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "he",
+      "request": "launch",
+      "mainClass": "he",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "calculation",
+      "request": "launch",
+      "mainClass": "calculation",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "language",
+      "request": "launch",
+      "mainClass": "language",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "maaaa",
+      "request": "launch",
+      "mainClass": "maaaa",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "value",
+      "request": "launch",
+      "mainClass": "value",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "saam",
+      "request": "launch",
+      "mainClass": "saam",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "teachers",
+      "request": "launch",
+      "mainClass": "teachers",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "ma",
+      "request": "launch",
+      "mainClass": "ma",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "Print",
+      "request": "launch",
+      "mainClass": "Print",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "Bb",
+      "request": "launch",
+      "mainClass": "Bb",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "Siii",
+      "request": "launch",
+      "mainClass": "Siii",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "method",
+      "request": "launch",
+      "mainClass": "method",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "multiarr",
+      "request": "launch",
+      "mainClass": "multiarr",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "arry",
+      "request": "launch",
+      "mainClass": "arry",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "clss",
+      "request": "launch",
+      "mainClass": "clss",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "class",
+      "request": "launch",
+      "mainClass": "class",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "IfSample",
+      "request": "launch",
+      "mainClass": "IfSample",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mywork",
+      "request": "launch",
+      "mainClass": "mywork",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "adding",
+      "request": "launch",
+      "mainClass": "adding",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "selfmade",
+      "request": "launch",
+      "mainClass": "selfmade",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "scaaneer",
+      "request": "launch",
+      "mainClass": "scaaneer",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "mathclass",
+      "request": "launch",
+      "mainClass": "mathclass",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "stringleneth",
+      "request": "launch",
+      "mainClass": "stringleneth",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "fooooor",
+      "request": "launch",
+      "mainClass": "fooooor",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "dhandwh",
+      "request": "launch",
+      "mainClass": "dhandwh",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "dh  and  wh",
+      "request": "launch",
+      "mainClass": "dh  and  wh",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "luup",
+      "request": "launch",
+      "mainClass": "luup",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "swffdd",
+      "request": "launch",
+      "mainClass": "swffdd",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "switch",
+      "request": "launch",
+      "mainClass": "switch",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "project",
+      "request": "launch",
+      "mainClass": "project",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "snaa",
+      "request": "launch",
+      "mainClass": "snaa",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "java",
+      "request": "launch",
+      "mainClass": "dd.java",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "ifstatement",
+      "request": "launch",
+      "mainClass": "ifstatement",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "if statement",
+      "request": "launch",
+      "mainClass": "if statement",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "logical",
+      "request": "launch",
+      "mainClass": "logical",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "aridabettic",
+      "request": "launch",
+      "mainClass": "aridabettic",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "myjava",
+      "request": "launch",
+      "mainClass": "myjava",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "type": "java",
+      "name": "d",
+      "request": "launch",
+      "mainClass": "d",
+      "projectName": "vs code_993f388e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/DELL/Desktop/vs code",
+      "program": "c:/Users/DELL/Desktop/vs code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

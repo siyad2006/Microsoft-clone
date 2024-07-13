@@ -1,0 +1,42 @@
+.main-div{
+    height: 680px;
+    width: 100%;
+    background:black;
+}
+.hedding{
+padding-left: 25px;
+padding-top: 50px;
+color: white;
+}
+.second-headding{
+    padding-left: 25px;
+    color: white;
+}
+.image-div{
+    height: 50px;
+    width: 15px;
+    padding-left: 400px;
+    filter: brightness(70%);
+    left: 50%;
+    transform: translate(-50,50);
+}
+.div-of-button{
+    padding-left: 25px;
+   
+}
+.sign-button{
+ background: rgb(27, 175, 233);
+ height: 70px;
+ font-weight: bold;
+
+}
+.menu-div{
+    background:black;
+    color: white;
+    height: 25px;
+
+}
+.image-clas{
+    
+    width: 100%;
+}

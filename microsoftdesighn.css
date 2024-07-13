@@ -1,0 +1,475 @@
+body{
+    margin: 0;
+    /* width: 95%; */
+}
+.menu-div{
+    background:white;
+    height: 50px;
+    padding-bottom: 21px;
+
+}
+.micrologo{
+    padding-left: 20px;
+    width: 137px;
+    margin-top: 20px;
+}
+.linklogo{
+    text-decoration: none;
+}
+.m3965{
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+}
+.teams{
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.copilot{
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.windows{
+    padding-left: 5px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.surfacee{
+    padding-left: 10px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.xbox{
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.support{
+    padding-left: 15px;
+    padding-bottom: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.select{
+   padding-left: 50px;
+   margin-left: 50px;
+}
+#butt{
+   
+    margin-left: 50px;
+}
+.hero-img{
+    width: 1263px;
+}
+.in{
+
+}
+.mainimage{
+    background: #CEDAF0;
+}
+.mainimage img{
+    display: block;
+    max-width: 100px;
+}
+.p{
+    position: absolute;
+    top: 30%; /* Align the overlay vertically centered */
+    left: 10%; /* Align the overlay horizontally centered */
+    background: white;
+
+}
+.surface{
+    font-weight: 500;
+    font-size: 29px;
+    padding: 25px;
+}
+.new{
+background: orange;
+border: 2px;
+
+}
+.p{
+ color: black;
+}
+.s{
+    padding: 30px;
+}
+.icons{
+    background: white;
+    height: 100px;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    padding-left: 100px;
+    
+}
+.u{
+    padding-left: 80px;
+}
+.x{
+    height: 50px;
+    width: 50px;
+   
+    padding-left: 250px;
+
+    
+}
+.e2{
+    height: 50px;
+    width: 50px;
+    padding-left: 250px;
+       
+}
+.e3{
+    height: 50px;
+    width: 50px;
+    padding-left: 250px;
+}
+.m365{
+   text-decoration: none;
+    padding-left: 70px;
+    color: blue;
+}
+.box{
+    text-decoration: none;
+    padding-left: 220px;
+    color: blue;
+    font-size: 25px;
+}
+.wind{
+    text-decoration: none;
+    padding-left: 220px;
+    color: blue;
+    font-size: 25px;
+    padding-left: 230px;
+}
+.r1{
+    height: 50px;
+    width: 50px;
+    padding-left: 300px;
+       
+}
+.co{
+    text-decoration: none;
+    padding-left: 220px;
+    color: blue;
+    font-size: 25px;
+    padding-left: 240px;
+
+}
+.window1{
+    width: 300px;
+    height: 500px;
+    background:white;
+    
+   outline: 1px solid transparent;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    border-left: 20px;
+    position: absolute;
+}
+.wind1{
+    width: 300px;
+}
+.window2{
+    width:24%;
+    height: 500px;
+    margin-left: 25%;
+   
+    background: white;
+    position: absolute;
+    outline: 1px solid transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+}
+.window3{
+    width: 24%;
+    height: 500px;
+    margin-left: 50%;
+    background: white;
+    position: absolute;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+   outline: 1px solid transparent;
+}
+.window4{
+    width: 25%;
+    height: 500px;
+    margin-left: 952px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+   outline: 1px solid transparent;
+}
+
+.three{
+    padding-left: 20px;
+}
+.threep{
+    padding-left: 20px;
+}
+.butto{
+    padding: 20px;
+    margin-left: 20px;
+    background: rgb(18, 71, 217);
+    color: white;
+
+}
+.download-copilot{
+    background: rgb(18, 71, 217);
+    margin-left:15px ;
+    padding: 20px;
+    color: white;
+}
+.shop-x{
+    background: rgb(18, 71, 217);
+    color: white;
+    margin-top: 180px;
+    margin-left: 25px;
+    padding: 25px;
+}
+.seriesx{
+    padding: 25px;
+    margin-left: 25px;
+    margin-top: 160px;
+    background: rgb(18, 71, 217);
+    color: white;
+}
+.sky-pic{
+    position: absolute;
+    margin-top: 25px;
+}
+.xul{
+    padding-left: 30px;
+    bottom: 450px;
+    position: absolute;
+    color: white;
+}
+.xull{
+    padding-left: 30px;
+    bottom: 400px;
+    position: absolute;
+    color: white;
+}
+.join{
+    background: rgb(18, 71, 217);
+    padding: 15px;
+    position: absolute;
+    margin-left: -1200px;
+    bottom: 300px;
+}
+.re{
+    margin-top: 650px;
+    background:white;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+}
+.bussiness{
+    color: black;
+    padding-left: 30px;
+
+}
+.shop-div{
+    outline: 1px solid transparent; /* Hide default outline */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+        background: white;
+        position: absolute;
+        height: 500px;
+        width: 300px;
+        margin-top: 730px;
+        margin-left: 20px;
+
+}
+.mc365{
+    outline:  1px solid transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    background: white;
+    margin-left: 350px;
+   margin-top: 730px;
+}
+.ai{
+    outline:  1px solid transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    background: white;
+    margin-left: 700px ;
+    margin-top: 730px;
+}
+.vs-code{
+    outline:  1px solid transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    height: 500px;
+    width: 250px;
+    position: absolute;
+    background: white;
+    margin-left: 1030px;
+    margin-top: 725px;
+}
+.surface-shop{
+    width: 300px;
+}
+.b{
+    padding-left: 15px;
+}
+.edc{
+    padding-left: 15px;
+
+}
+.edc-shopnow{
+    padding: 15px;
+    margin-left: 15px;
+    margin-top: 75px;
+    background: rgb(18, 71, 217);
+    color: white;
+}
+.mc365-c{
+    width: 300px;
+}
+.mc365-h1{
+    padding-left:15px ;
+}
+.mc365-p{
+    padding-left: 15px;
+}
+.mc365-but{
+    background: rgb(18, 71, 217);
+    color: white;
+    margin-left: 15px;
+    padding: 15px;
+    margin-top: 15px;
+}
+.ai-i{
+    width: 300px;
+}
+.ai-h1{
+    padding-left :15px; 
+}
+.ai-p{ 
+    padding-left: 15px;
+}
+.ai-but{
+    padding: 15px;
+    margin-left: 15px;
+    background: rgb(18, 71, 217);
+    color: white;
+    margin-top: 60px;
+}
+.vs-code-i{
+    width: 250px;
+    height: 170px;
+}
+.vs-code-h1{
+    padding-left: 15px;
+}
+.vs-code-p{
+    padding-left: 15px;
+}
+.vs-code-d{
+    background: rgb(18, 71, 217);
+    color: white;
+    margin-left: 15px;
+    padding: 15px;
+}
+.end-div{
+    height: 100px;
+    width: 105%;
+    background:white;
+    margin-top: 1250px;
+}
+.rf{
+    /* margin-top: 100px; */
+}
+.sec{
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 100px;
+}
+.face{
+    height: 30px;
+    width: 30px;
+    margin-left: 130px  ;
+    top: 50px;
+    padding-bottom: 70px;
+   
+
+}
+.rc{
+    margin-left: 75px;
+    position: absolute;
+    margin-bottom: 25px;
+    margin-bottom:50px;
+}
+.fc{
+    margin-left: 15px;
+    position: absolute;
+    margin-bottom: 25px;
+    height: 30px;
+    width: 30px;
+
+}
+.section-footer{
+    width: 100%;
+    background-color: red;
+    height: 400px;
+    padding-right:63.167px ;
+    padding-left: 63.167px;
+}
+.footer-text{
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+}
+.fotter-head{
+    background: #F2F2F2;
+    height: 445px;
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 60px;
+    padding-right: 30px;
+}
+.fotter-div{
+  
+    width: 90%;
+    height: 445px;
+    background:#F2F2F2;
+}
+.footer-1{
+    font-size: 19px;
+    padding-top: 36px;
+    font-family: 600;
+    margin-left: -18px;
+
+
+}
+.footer-2{
+    margin-left: -18px;
+    font-size: 11px;
+    text-decoration: none;
+    color: black;
+}
+.footer-3{
+    margin-left: -18px;
+    font-size: 11px;
+    text-decoration: none;
+    color: black;
+  padding-top: 30px;
+}
